@@ -5,18 +5,6 @@
 
 Um scanner de portas TCP básico desenvolvido em Python, criado com fins educacionais para demonstrar conceitos de redes e sockets. Ideal para quem está começando na área de segurança da informação ou desenvolvimento de ferramentas de rede.
 
-## 📌 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Como Executar](#como-executar)
-- [Exemplo de Uso](#exemplo-de-uso)
-- [Explicação do Código](#explicação-do-código)
-- [Conceitos de Redes Envolvidos](#conceitos-de-redes-envolvidos)
-- [Aviso Legal](#aviso-legal)
-- [Melhorias Futuras](#melhorias-futuras)
-- [Licença](#licença)
-- [Contato](#contato)
-
 ---
 
 ## 🧠 Sobre o Projeto 
