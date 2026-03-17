@@ -126,9 +126,3 @@ Onde:
 - Exportar resultados para JSON ou CSV.
 - Criar uma interface gráfica simples (Tkinter ou web).
 
----
-
-## 📫 Contato
-Criado por Seu Nome
-[![Alt Text](https://img.shields.io/badge/LinkedIn-Perfil-blue)](www.linkedin.com/in/acácio-gabriel-742187256)
-![Alt text](https://img.shields.io/badge/acaciobritog@hotmail.com-red)
