@@ -130,5 +130,5 @@ Onde:
 
 ## 📫 Contato
 Criado por Seu Nome
-[https://img.shields.io/badge/LinkedIn-Perfil-blue](www.linkedin.com/in/acácio-gabriel-742187256)
-https://img.shields.io/badge/acaciobritog@hotmail.com-red
+[![Alt Text](https://img.shields.io/badge/LinkedIn-Perfil-blue)](www.linkedin.com/in/acácio-gabriel-742187256)
+![Alt text](https://img.shields.io/badge/acaciobritog@hotmail.com-red)
