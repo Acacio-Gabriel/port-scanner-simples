@@ -1,7 +1,6 @@
 # 🔍 Port Scanner Simples
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://python.org)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green)](LICENSE)
 
 Um scanner de portas TCP básico desenvolvido em Python, criado com fins educacionais para demonstrar conceitos de redes e sockets. Ideal para quem está começando na área de segurança da informação ou desenvolvimento de ferramentas de rede.
 
